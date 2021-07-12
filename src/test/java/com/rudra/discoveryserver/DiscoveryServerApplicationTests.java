@@ -1,4 +1,4 @@
-package com.rudrasiva86.discoveryserver;
+package com.rudra.discoveryserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

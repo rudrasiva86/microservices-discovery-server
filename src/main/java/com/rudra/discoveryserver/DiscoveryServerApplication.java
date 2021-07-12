@@ -1,4 +1,4 @@
-package com.rudrasiva86.discoveryserver;
+package com.rudra.discoveryserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
